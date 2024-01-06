@@ -272,6 +272,7 @@
 @media (max-width:425px){
 .shop-section .shop-card{
     width: 7.75rem;
+    padding:0.2rem 0.4rem;
 }
 .shop-card h4{
     font-size: 0.8rem;
