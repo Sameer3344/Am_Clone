@@ -321,16 +321,6 @@
 .shop-card .for-box img {
     min-height: 70px;
 }
-
-/* movie section */
-.m-img img {
-    margin-bottom: 1.5rem;
-    height: 120px;
-    width: 105px;
-}
-.mov-sec h5{
-    font-size: 0.8rem;
-}
 }
 @media (max-width:375px){
 .shop-section .shop-card{
