@@ -293,6 +293,45 @@
     font-size: 8px;
 }
 }
+@media (max-width:390px){
+.shop-section .shop-card{
+    width: 6.75rem;
+    height: 10rem;
+    padding: 0.2rem 0.4rem;
+}
+.shop-section .card-body p {
+    font-size: 6px;
+}
+.img-container img {
+    min-height: 30px;
+    max-width: 39px;
+}
+.shop-section .card-text{
+    font-size: 8px;
+}
+.shop-card h4{
+    font-size: 0.6rem;
+}
+.card-body{
+    padding: 0.8rem;
+}
+.shop-section .for-img h4{
+    padding: 10px 10px;
+}
+.shop-card .for-box img {
+    min-height: 70px;
+}
+
+/* movie section */
+.m-img img {
+    margin-bottom: 1.5rem;
+    height: 120px;
+    width: 105px;
+}
+.mov-sec h5{
+    font-size: 0.8rem;
+}
+}
 @media (max-width:375px){
 .shop-section .shop-card{
     width: 6.75rem;
